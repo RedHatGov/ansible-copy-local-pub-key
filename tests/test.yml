@@ -2,4 +2,4 @@
 - hosts: localhost
   gather_facts: no
   roles:
-    - roles/copy-local-pub-key
+    - RedHatGov.copy_local_pub_key

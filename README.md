@@ -25,7 +25,7 @@ Example Playbook
 - hosts: servers
   gather_facts: no
   roles:
-    - redhatgov.copy-local-pub-key
+    - RedHatGov.copy_local_pub_key
 ```
 
 License
